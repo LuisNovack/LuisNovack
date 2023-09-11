@@ -10,7 +10,7 @@
 <img src="https://images.emojiterra.com/google/noto-emoji/v2.034/128px/1f468-1f4bb.png" width="100"><br>
   
 
-![Luis GitHub stats](https://github-readme-stats.vercel.app/api?username=luishrs&show_icons=true&theme=dracula&count_private=true)
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=luishrs&show_icons=true&theme=dracula&count_private=true)
     
 <div style="display: inline_block; margin: 0, 50px">
 <!--   <img align="center" alt="Dev-Github" height="30" width="40" src=/> -->
