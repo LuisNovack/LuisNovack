@@ -4,7 +4,7 @@
   - 🌱 I’m currently learning front-end development
   - 💞️ I’m looking to collaborate on Everything i can
 
-<strong>If you need to contact me, send me an Email:</strong> luis-hrs@outlook.com.com
+<strong>If you need to contact me, send me an Email:</strong> luis-hrs@outlook.com
 <br>
   
 <img src="https://images.emojiterra.com/google/noto-emoji/v2.034/128px/1f468-1f4bb.png" width="100"><br>
@@ -41,4 +41,4 @@
 <a href="https://www.linkedin.com/in/luishrs/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">   </a>
 </div>
 
-![Snake animation](https://github.com/lucopdev/lucopdev/blob/output/github-contribution-grid-snake.svg)
+[Snake animation](https://github.com/lucopdev/lucopdev/blob/output/github-contribution-grid-snake.svg)
