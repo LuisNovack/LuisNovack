@@ -9,10 +9,6 @@
   
 <img src="https://images.emojiterra.com/google/noto-emoji/v2.034/128px/1f468-1f4bb.png" width="100"><br>
   
-<div>
-    <img width="400px" height="180px" src="https://github-readme-stats.vercel.app/api?username=luushrs&theme=transparent&show_icons=true)(https://github.com/lucopdev/github-readme-stats">  
-    <img width="400px" height="180px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=luishrs&layout=compact&theme=transparent&show_icons=true)(https://github.com/lucopdev/github-readme-stats">
-</div><br>
 
 ![Luis GitHub stats](https://github-readme-stats.vercel.app/api?username=luishrs&show_icons=true&theme=dracula&count_private=true)
     
