@@ -13,6 +13,8 @@
     <img width="400px" height="180px" src="https://github-readme-stats.vercel.app/api?username=luushrs&theme=transparent&show_icons=true)(https://github.com/lucopdev/github-readme-stats">  
     <img width="400px" height="180px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=luishrs&layout=compact&theme=transparent&show_icons=true)(https://github.com/lucopdev/github-readme-stats">
 </div><br>
+
+![Luis GitHub stats](https://github-readme-stats.vercel.app/api?username=luishrs&show_icons=true&theme=dracula&count_private=true)
     
 <div style="display: inline_block; margin: 0, 50px">
 <!--   <img align="center" alt="Dev-Github" height="30" width="40" src=/> -->
